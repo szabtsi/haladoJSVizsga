@@ -9,4 +9,5 @@ Az XMLHttpRequest helyett az aszinkronikus kérések fetch függvény segítség
 ## Hivatkozások
 
 [fetch](https://www.w3schools.com/js/js_api_fetch.asp)
+
 [async](https://www.w3schools.com/js/js_async.asp)
